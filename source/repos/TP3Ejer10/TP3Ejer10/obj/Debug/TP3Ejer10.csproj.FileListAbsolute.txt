@@ -1,0 +1,10 @@
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\bin\Debug\TP3Ejer10.exe.config
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\bin\Debug\TP3Ejer10.exe
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\bin\Debug\TP3Ejer10.pdb
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.csproj.AssemblyReference.cache
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.Form1.resources
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.Properties.Resources.resources
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.csproj.GenerateResource.cache
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.csproj.CoreCompileInputs.cache
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.exe
+C:\Users\mezequielc\source\repos\TP3Ejer10\TP3Ejer10\obj\Debug\TP3Ejer10.pdb
